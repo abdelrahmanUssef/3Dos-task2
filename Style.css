@@ -1,0 +1,54 @@
+body{
+    background-color: #e0c68b;
+    font-family: 'Nerko One', cursive;
+}
+.NTXT{
+    color: darkred;
+    font-size: 30px;
+    font-weight: bolder;
+    }
+.CTXT{
+    color: wheat;
+    font-size:20px;
+}
+.HName{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+    color:darkred;
+    font-weight: bolder;
+    font-size: 50PX;
+}
+.prods{
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.card-deck {
+    margin-bottom: 1%;
+}
+.FTXT {
+    color:wheat;
+}
+.signUp{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+
+    background-color: white;
+    padding: 5%;
+    border-radius: 2%;
+    border: 3px solid darkred;
+}
+.RBOX{
+    margin: 1%;
+}
+.TED{
+    margin: 5%;
+}
+footer.fot {
+    position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+}
